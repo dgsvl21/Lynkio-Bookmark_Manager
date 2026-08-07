@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+
+sqlalchemy
+alembic
+
+psycopg2-binary
+
+python-jose[cryptography]
+passlib[bcrypt]
+
+python-dotenv
+
+requests
+beautifulsoup4
+
+google-generativeai
