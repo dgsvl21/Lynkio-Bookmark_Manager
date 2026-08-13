@@ -93,7 +93,7 @@ Instead of storing only URLs, Lynkio aims to provide:
 
 ### Artificial Intelligence
 
-- OpenAI API
+- Gemini API
 - Embeddings
 - Text Summarization
 
