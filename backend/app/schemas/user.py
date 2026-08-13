@@ -2,7 +2,7 @@ from datetime import datetime
 from uuid import UUID
 from pydantic import BaseModel, EmailStr
 
-class USerCreatee(BaseModel):
+class UserCreate(BaseModel):
     email: EmailStr
     username: str
     password: str
